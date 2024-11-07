@@ -1,0 +1,14 @@
+C:\Users\Officemax\source\repos\day4 task 3\day4 task 3\bin\Debug\net8.0\day4 task 3.exe
+C:\Users\Officemax\source\repos\day4 task 3\day4 task 3\bin\Debug\net8.0\day4 task 3.deps.json
+C:\Users\Officemax\source\repos\day4 task 3\day4 task 3\bin\Debug\net8.0\day4 task 3.runtimeconfig.json
+C:\Users\Officemax\source\repos\day4 task 3\day4 task 3\bin\Debug\net8.0\day4 task 3.dll
+C:\Users\Officemax\source\repos\day4 task 3\day4 task 3\bin\Debug\net8.0\day4 task 3.pdb
+C:\Users\Officemax\source\repos\day4 task 3\day4 task 3\obj\Debug\net8.0\day4 task 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Officemax\source\repos\day4 task 3\day4 task 3\obj\Debug\net8.0\day4 task 3.AssemblyInfoInputs.cache
+C:\Users\Officemax\source\repos\day4 task 3\day4 task 3\obj\Debug\net8.0\day4 task 3.AssemblyInfo.cs
+C:\Users\Officemax\source\repos\day4 task 3\day4 task 3\obj\Debug\net8.0\day4 task 3.csproj.CoreCompileInputs.cache
+C:\Users\Officemax\source\repos\day4 task 3\day4 task 3\obj\Debug\net8.0\day4 task 3.dll
+C:\Users\Officemax\source\repos\day4 task 3\day4 task 3\obj\Debug\net8.0\refint\day4 task 3.dll
+C:\Users\Officemax\source\repos\day4 task 3\day4 task 3\obj\Debug\net8.0\day4 task 3.pdb
+C:\Users\Officemax\source\repos\day4 task 3\day4 task 3\obj\Debug\net8.0\day4 task 3.genruntimeconfig.cache
+C:\Users\Officemax\source\repos\day4 task 3\day4 task 3\obj\Debug\net8.0\ref\day4 task 3.dll

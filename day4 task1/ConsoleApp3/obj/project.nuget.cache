@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/G/mIfJKqyg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Officemax\\source\\repos\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Officemax\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.10\\microsoft.dotnet.ilcompiler.8.0.10.nupkg.sha512",
+    "C:\\Users\\Officemax\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.10\\microsoft.net.illink.tasks.8.0.10.nupkg.sha512",
+    "C:\\Users\\Officemax\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.10\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
